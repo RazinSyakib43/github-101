@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ini coba sebelum revert
+=======
+>>>>>>> parent of c52681e (nyoba revert)
 =======
 >>>>>>> parent of c52681e (nyoba revert)
